@@ -1,12 +1,33 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/logo.png" alt="RCG Logo" width="200"/>
 
-<!--
+  # Resolute Consulting Group
 
-**Here are some ideas to get you started:**
+  **Helps organizations improve operations, modernize technology, and deliver measurable business outcomes.**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  [Website](https://resolutecg.com) · [Newsletters](https://resolutecg.com/newsletters) · [Careers](https://resolutecg.com/careers) · [Contact](mailto:contactrcg@resolutecg.com)
+</div>
+
+---
+
+## About Us
+
+RCG’s consultants are experienced and knowledgeable across multiple industries: media, healthcare, commodities, and financial services. 
+We pride ourselves on our business acumen combined with technical abilities, and our client satisfaction speaks for itself.
+
+## Connect With Us
+
+- 🌐 Website: [example.com](https://resolutecg.com)
+- 💼 LinkedIn: [linkedin.com/company/resolutecg](https://www.linkedin.com/company/resolutecg/)
+- 🐦 Facebook: [@Resolute-Consulting-Group](https://www.facebook.com/people/Resolute-Consulting-Group/100094349066668/?mibextid=9R9pXO)
+- 📧 Email: contactrcg@resolutecg.com
+
+## Join Us
+
+We're always looking for talented people. Check out our [open roles](https://resolutecg.com/careers).
+
+---
+
+<div align="center">
+  <sub>© 2026 Resolute Consulting Group. All rights reserved.</sub>
+</div>
