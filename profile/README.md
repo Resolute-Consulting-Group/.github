@@ -17,9 +17,9 @@ We pride ourselves on our business acumen combined with technical abilities, and
 
 ## Connect With Us
 
-- 🌐 Website: [example.com](https://resolutecg.com)
+- 🌐 Website: [resolutecg.com](https://resolutecg.com)
 - 💼 LinkedIn: [linkedin.com/company/resolutecg](https://www.linkedin.com/company/resolutecg/)
-- 🐦 Facebook: [@Resolute-Consulting-Group](https://www.facebook.com/people/Resolute-Consulting-Group/100094349066668/?mibextid=9R9pXO)
+- 🐦 Facebook: [Resolute-Consulting-Group](https://www.facebook.com/people/Resolute-Consulting-Group/100094349066668/?mibextid=9R9pXO)
 - 📧 Email: contactrcg@resolutecg.com
 
 ## Join Us
