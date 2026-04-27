@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/logo.png" alt="RCG Logo" width="200"/>
+  <img src="./assets/logo.png" alt="RCG Logo" width="1400"/>
 
   # Resolute Consulting Group
 
